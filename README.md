@@ -2,10 +2,10 @@
 # Enhancing Road Safety with AI-driven Traffic Accident Analysis and Prediction
 
 **Student Name:** Shrilekha S  
-**Register Number:** 412723205031  
+**Register Number:** 412723205047
 **Institution:** Tagore Engineering College  
 **Department:** Information Technology  
-**Date of Submission:** 1st May, 2025  
+**Date of Submission:** 3rd May, 2025  
 
 ## 📌 GitHub Repository Link
 > _Provide the link here after uploading the project._
